@@ -9,3 +9,12 @@ um personagem da listagem, exibindo uma tela de detalhes com as seguintes inform
 ● Gênero;
 ● Color dos olhos;
 ● Filmes (Título e data de lançamento).
+
+
+Rotas 
+"https://swapi.dev/api/people/"	
+"https://swapi.dev/api/films/"		
+"https://swapi.dev/api/vehicles/",		
+"https://swapi.dev/api/starships/",
+"https://swapi.dev/api/species/",
+"https://swapi.dev/api/starships/",
